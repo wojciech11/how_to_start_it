@@ -49,4 +49,4 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
 ## Dodatkowe
 
 - https://automatetheboringstuff.com - many ideas for Python programs
-- https://missing.csail.mit.edu - shell tools and scripting
+- https://missing.csail.mit.edu - 2 pierwsze części - shell tools and scripting
