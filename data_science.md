@@ -1,5 +1,7 @@
 # Kierunek - Data Science & BI
 
+Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_start_your_it_career/blob/master/tester_pl.pdf) jak zacząć - **patrz slajdy "Czas nauki"**.
+
 ## Iteracja podstawy
 
 1. Przygotowanie swojego lokalnego środowiska, zainstaluj (uczenie się traktowania swojego komputera jako narzędzia):
@@ -33,6 +35,13 @@
 7. Wybierz jakąś aplikację z tutoriali do rozbudowy, pomyśl jak można ją rozbudować. Na przykład, pandas i problem wyliczania wartości koszyka - http://codekata.com/kata/kata01-supermarket-pricing/
 
 ## Iteracja 2 - TBA
+
+1. Załóż konto na github, naucz się jak umieszczać pliki:
+
+   1. Zainstaluj git na WSL2 - https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git
+   2. Tutorial, mantry GIT - https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md
+
+2. TBA
 
 ## Dodatkowe
 
