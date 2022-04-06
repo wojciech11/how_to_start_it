@@ -24,22 +24,25 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
    - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
    - [Automate boring staff with Python](https://automatetheboringstuff.com)
 
-5. Wyszukać jakiś tutorial zbudowania prostej aplikacji flask, drugi raz. Coś bardziej skomplikowanego, nie koniecznie z baza danych.
+## Iteracja 2
 
-6. Wracamy do Kaggle:
+1. Wyszukać jakiś tutorial zbudowania prostej aplikacji flask, drugi raz. Coś bardziej skomplikowanego, nie koniecznie z baza danych.
+
+2. Wracamy do Kaggle:
 
    - Pandas: https://www.kaggle.com/learn/pandas
    - Data Vizualization: https://www.kaggle.com/learn/data-visualization
    - SQL: https://www.kaggle.com/learn/intro-to-sql
 
-7. Wybierz jakąś aplikację z tutoriali do rozbudowy, pomyśl jak można ją rozbudować. Na przykład, pandas i problem wyliczania wartości koszyka - http://codekata.com/kata/kata01-supermarket-pricing/
+3. Wybierz jakąś aplikację z tutoriali do rozbudowy, pomyśl jak można ją rozbudować. Na przykład, pandas i problem wyliczania wartości koszyka - http://codekata.com/kata/kata01-supermarket-pricing/
 
-## Iteracja 2 - TBA
+## Iteracja 3 - TBA
 
 1. Załóż konto na github, naucz się jak umieszczać pliki:
 
    1. Zainstaluj git na WSL2 - https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git
-   2. Tutorial, mantry GIT - https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md
+   2. Tutorial, 2x mantra GIT - https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md
+   3. [Tutorial Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 2. TBA
 
