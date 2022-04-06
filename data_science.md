@@ -9,9 +9,9 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
    1. WSL - ubuntu 20.04 - [instrukcja](https://docs.microsoft.com/en-us/windows/wsl/install).
 
    2. Python3 i VSCode - [instrukcja](https://docs.microsoft.com/en-us/windows/python/web-frameworks) - bez Flaska, później do tego wrócisz, wystarczy, żebyś na razie uruchomił:
-   ```python
-   print("hello world")
-   ```
+      ```python
+      print("hello world")
+      ```
 
    3. Miniconda i Jupytherlab - [instrukcja](https://www.gerritjandebruin.nl/jupyter.html)
 
