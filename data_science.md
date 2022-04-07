@@ -83,7 +83,7 @@ Zauważ rekomendowane jest Ubuntu, ale możesz później przesiąść się z Win
 
 2. TBA
 
-## Ubunut jako wirtualna maszyna
+## Ubuntu jako wirtualna maszyna na Windowsie
 
 - [VirtualBox](https://www.virtualbox.org) - instrukcje: [1](https://www.lifewire.com/install-ubuntu-linux-windows-10-steps-2202108) i [2](https://itsfoss.com/install-linux-in-virtualbox/)
 - [VMware Workstation Player](https://www.vmware.com/pl/products/workstation-player.html) - [tutorial](https://www.youtube.com/watch?v=B1tCRwkFmnA&t=12s)
