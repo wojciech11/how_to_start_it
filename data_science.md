@@ -39,7 +39,7 @@ Recomendowane [Ubuntu LTS](https://wiki.ubuntu.com/Releases) - 20.04.3.
 
 ### Windows 
 
-Zauważ rekomendowane jest Ubuntu, ale możesz później przesiąść się z Windowsa na Ubuntu. 
+Zauważ rekomendowane jest Ubuntu, ale możesz później przesiąść się z Windowsa na Ubuntu, na razie skup się na Pythonie i poznaniu środowiska Jupyther notebook.
 
 1. Przygotowanie swojego lokalnego środowiska, zainstaluj (uczenie się traktowania swojego komputera jako narzędzia):
 
