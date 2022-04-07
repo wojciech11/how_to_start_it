@@ -4,6 +4,8 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
 
 ## Iteracja podstawy
 
+Windows (rekomendowane Ubuntu):
+
 1. Przygotowanie swojego lokalnego środowiska, zainstaluj (uczenie się traktowania swojego komputera jako narzędzia):
 
    1. WSL - ubuntu 20.04 - [instrukcja](https://docs.microsoft.com/en-us/windows/wsl/install).
@@ -17,9 +19,40 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
 
 2. Załóż konto na kaggle.com i zrób tutorial Python w przeglądarce z użyciem notebooków - https://www.kaggle.com/learn/python
 
-3. Zrób instrukcję jak uruchomić aplikację flask z https://docs.microsoft.com/en-us/windows/python/web-frameworks
+3. Zrób instrukcję jak uruchomić "Hello World tutorial for Flask" z https://docs.microsoft.com/en-us/windows/python/web-frameworks
 
 4. Czas na klasyczny tutorial, 2 z trzech:
+
+   - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+   - [Automate boring staff with Python](https://automatetheboringstuff.com)
+
+Ubuntu:
+
+1. Zainstaluj:
+   
+    - [VSCode](https://code.visualstudio.com/)
+    - [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
+2. Jupyterlab:
+
+   ```bash
+   conda create -n ds-first
+   conda activate ds-first
+
+   conda install --channel conda-forge jupyterlab
+   conda install --channel conda-forge ipywidgets
+   ```
+
+   ```bash
+   # uruchom jupyther
+   jupyter lab
+   ```
+
+3. Załóż konto na kaggle.com i zrób tutorial Python w przeglądarce z użyciem notebooków - https://www.kaggle.com/learn/python
+
+3. Zrób instrukcję jak uruchomić "Hello World tutorial for Flask" z https://docs.microsoft.com/en-us/windows/python/web-frameworks
+
+5. Czas na klasyczny tutorial, 2 z trzech:
 
    - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
    - [Automate boring staff with Python](https://automatetheboringstuff.com)
