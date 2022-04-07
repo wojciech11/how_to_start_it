@@ -4,29 +4,9 @@ Kilka słów na start, patrz [prezentacja](https://github.com/wojciech11/how_to_
 
 ## Iteracja podstawy
 
-Windows (rekomendowane Ubuntu):
+### Ubuntu
 
-1. Przygotowanie swojego lokalnego środowiska, zainstaluj (uczenie się traktowania swojego komputera jako narzędzia):
-
-   1. WSL - ubuntu 20.04 - [instrukcja](https://docs.microsoft.com/en-us/windows/wsl/install).
-
-   2. Python3 i VSCode - [instrukcja](https://docs.microsoft.com/en-us/windows/python/web-frameworks) - bez Flaska, później do tego wrócisz, wystarczy, żebyś na razie uruchomił:
-      ```python
-      print("hello world")
-      ```
-
-   3. Miniconda i Jupytherlab - [instrukcja](https://www.gerritjandebruin.nl/jupyter.html)
-
-2. Załóż konto na kaggle.com i zrób tutorial Python w przeglądarce z użyciem notebooków - https://www.kaggle.com/learn/python
-
-3. Zrób instrukcję jak uruchomić "Hello World tutorial for Flask" z https://docs.microsoft.com/en-us/windows/python/web-frameworks
-
-4. Czas na klasyczny tutorial, 2 z trzech:
-
-   - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
-   - [Automate boring staff with Python](https://automatetheboringstuff.com)
-
-Ubuntu:
+Recomendowane [Ubuntu LTS](https://wiki.ubuntu.com/Releases) - 20.04.3.
 
 1. Zainstaluj:
    
@@ -52,7 +32,31 @@ Ubuntu:
 
 3. Zrób instrukcję jak uruchomić "Hello World tutorial for Flask" z https://docs.microsoft.com/en-us/windows/python/web-frameworks
 
-5. Czas na klasyczny tutorial, 2 z trzech:
+5. Czas na klasyczny tutorial, wykonaj na swoim komputerze:
+
+   - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
+   - [Automate boring staff with Python](https://automatetheboringstuff.com)
+
+### Windows 
+
+Zauważ rekomendowane jest Ubuntu, ale możesz później przesiąść się z Windowsa na Ubuntu. 
+
+1. Przygotowanie swojego lokalnego środowiska, zainstaluj (uczenie się traktowania swojego komputera jako narzędzia):
+
+   1. WSL - ubuntu 20.04 - [instrukcja](https://docs.microsoft.com/en-us/windows/wsl/install).
+
+   2. Python3 i VSCode - [instrukcja](https://docs.microsoft.com/en-us/windows/python/web-frameworks) - bez Flaska, później do tego wrócisz, wystarczy, żebyś na razie uruchomił:
+      ```python
+      print("hello world")
+      ```
+
+   3. Miniconda i Jupytherlab - [instrukcja](https://www.gerritjandebruin.nl/jupyter.html)
+
+2. Załóż konto na kaggle.com i zrób tutorial Python w przeglądarce z użyciem notebooków - https://www.kaggle.com/learn/python
+
+3. Zrób instrukcję jak uruchomić "Hello World tutorial for Flask" z https://docs.microsoft.com/en-us/windows/python/web-frameworks
+
+4. Czas na klasyczny tutorial, wykonaj na swoim komputerze:
 
    - https://www.edx.org/course/introduction-to-computer-science-and-programming-7
    - [Automate boring staff with Python](https://automatetheboringstuff.com)
