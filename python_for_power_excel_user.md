@@ -1,8 +1,10 @@
-# Python 1
+# Python - Excel Power User
 
 Assumption:
 
 * You have experience with reports in Excel, using Macros, and limited VB exposure
+
+## Iteration 1
 
 Plan - we will learn how to use Python working with data.
 
@@ -12,6 +14,7 @@ Plan - we will learn how to use Python working with data.
 4. Your workstation - setup your local Jupyther environment
 5. Use your knowledge to work with a tabular data of your choice
 6. Create a Github account and learn basic git commands
+7. Write a simple web app
 
 Steps:
 
@@ -33,3 +36,10 @@ Steps:
    - [wsl-git](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git) - install and configure, skip the rest
    - https://lab.github.com/githubtraining/introduction-to-github 
    - https://github.com/wojciech11/se_software_build_automation_tools/blob/master/01_exercise/README_pl.md
+
+7. Write a simple web app - https://docs.microsoft.com/en-us/windows/python/web-frameworks
+
+## Iteration 2
+
+TBA
+ 
